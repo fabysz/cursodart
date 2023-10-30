@@ -1,9 +1,7 @@
 import 'package:cursodart/cursodart.dart' as cursodart;
 
 void main(List<String> arguments) {
-  int n = 10;
-  int n2 = 2;
-  bool r = 10 <= 20 && 10 >= 5;
+    bool r = 10 <= 20 && 10 >= 5;
 
   print(r);
 }
